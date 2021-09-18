@@ -1,0 +1,14 @@
+server:
+  port: 9000
+
+
+swagger:
+  title: ^project.name^
+  description: ^project.description^
+  version: ^project.version^
+  termsOfServiceUrl: https://help.offerup.com/hc/en-us
+  contactName: Miljan Puletic
+  contactUrl: https://miljan-portfolio.herokuapp.com/
+  contactEmail: miljan.puletic@gmail.com
+  license: License of API
+  licenseUrl: \#

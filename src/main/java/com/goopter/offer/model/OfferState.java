@@ -1,0 +1,11 @@
+package com.goopter.offer.model;
+
+public enum OfferState {
+
+     PRE_AUTH,  ACCEPTED, REVOKED, COMPLETED,   BOUGHT,
+
+
+
+    PENDING, AUTH,  DECLINED, ITEM_SENT, DELIVERED, OFFER_OK, PAYMENT_SCHEDULED, DEPOSITED
+
+}
